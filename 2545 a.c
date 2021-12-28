@@ -26,7 +26,6 @@ int main ()
         if(a==1) c++;
         if(b==1) c++;
         if(d==1) c++;
-
         if (c>=2) s++;
            c=0;
 
